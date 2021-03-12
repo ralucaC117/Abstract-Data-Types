@@ -1,1 +1,1 @@
-C++ written implementations for most commonly used containers, using linked lists, hash tables, binary search trees
+C++ written implementations for maps and multimaps, using linked lists, hash tables, binary search trees
